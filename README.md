@@ -17,7 +17,7 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/simple-rag.git
+    git clone https://github.com/maoussy/simple-rag.git
     cd simple-rag
     ```
 
@@ -52,10 +52,10 @@ python Generation.py
 
    python print_answers.py
 
-## Contributing
+## model saved on google drive
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+https://drive.google.com/drive/folders/1ePZUt1iQ5atJJuxX9nldCgeNFisqWvat?usp=sharing
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+on the rerport we will mention our futuire work for Phase 3
