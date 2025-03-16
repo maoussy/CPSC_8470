@@ -29,7 +29,7 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
 
 3. **Install the required packages**:
     ```sh
-    pip install -r requirements.txt
+    pip install -r requiremeents.txt
     ```
 
 ## Data Processing
