@@ -57,4 +57,4 @@ python Generation.py
 https://drive.google.com/drive/folders/1ePZUt1iQ5atJJuxX9nldCgeNFisqWvat?usp=sharing
 
 ## Future work
-on the rerport we will mention our futuire work for Phase 3
+on the rerport we will mention our future work for Phase 3
