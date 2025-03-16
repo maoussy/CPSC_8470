@@ -10,8 +10,8 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
 - [Building the Generation System](#building-the-generation-system)
 - [Evaluation](#evaluation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Model saved] #model saved on google drive
+- [Future work](#Future work)
 
 ## Installation
 
