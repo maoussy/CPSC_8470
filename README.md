@@ -33,24 +33,30 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
     ```
 
 ## Data Processing
-
-   python squad.py
+```py
+   python squad.py 
+   ```
 
 ## Building the Retrieval System
 
-python Retrieval.py
+   ```py 
+   python Retrieval.py
+   ```
 
 ## Building the Generation System
-
-python Generation.py
+    ```py
+    python Generation.py
+     ```
 
 ## Evaluation
-
- python Eval.py
+```py
+ python Eval.py 
+ ```
  
 ## Usage
-
+```py
    python print_answers.py
+```
 
 ## model saved on google drive
 
