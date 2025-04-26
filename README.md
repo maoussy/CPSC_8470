@@ -60,7 +60,32 @@ This is a simple implementation of a Retrieval-Augmented Generation (RAG) system
 
 ## model saved on google drive
 
+
+
+
 https://drive.google.com/drive/folders/1ePZUt1iQ5atJJuxX9nldCgeNFisqWvat?usp=sharing
 
 ## Future work
 on the rerport we will mention our future work for Phase 3
+
+
+# RAG Noise‐Robustness Evaluation Phase 3
+
+This repository implements and compares two Retrieval-Augmented Generation (RAG) pipelines on SQuAD v1.1 under controlled Gaussian noise in the retrieval step:
+
+1. **Dense‐Retriever + FAISS** (`rag_evaluation.py`)  
+   Embeds contexts with Sentence-Transformers + `IndexFlatL2` and injects noise into query embeddings.
+
+2. **BM25‐Based Retriever** (`rag_bm25_evaluation.py`)  
+   Indexes contexts with `rank_bm25` and injects noise directly into BM25 scores.
+
+For each pipeline we measure:
+
+- **Retrieval metrics**: hit@5, MRR  
+- **End-to-end QA metrics**: Exact Match, F1, ROUGE-L, BLEU  
+
+---
+
+## 📁 Repository Structure
+
+
