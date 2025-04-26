@@ -1,4 +1,4 @@
-# CPSC_8470
+# CPSC_8470 PHASE 2
 # Simple Retrieval-Augmented Generation (RAG) System
 
 This is a simple implementation of a Retrieval-Augmented Generation (RAG) system using a smaller dataset. The project demonstrates how to build a retrieval system using FAISS and a generation system using a pre-trained language model. This repository includes the code to set up the environment, process the data, build the retrieval and generation systems, and evaluate the results.
